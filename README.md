@@ -8,6 +8,6 @@ Apply neural network for Iris classification
 Finger numbers classification
 Face recongnition 
 
--RNN
+- RNN
 Emoji selection according to text
 Attention module
